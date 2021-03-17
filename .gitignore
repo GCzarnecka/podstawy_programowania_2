@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-
+.vs/
 lab_*/.idea/
 lab_*/cmake-build-debug/
