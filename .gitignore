@@ -31,10 +31,7 @@
 *.out
 *.app
 
-<<<<<<< HEAD
-lab_*/.idea/
-lab_*/cmake-build-debug/
-=======
+.vs/
 
 lab_*/.idea/
 lab_*/cmake-build-debug/
