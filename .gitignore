@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+.vscode/
+Lab_2/build/
+ 
