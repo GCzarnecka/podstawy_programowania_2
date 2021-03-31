@@ -1,6 +1,0 @@
-C:/Users/User/Desktop/podstawy_programowania_2/Lab_4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Desktop/podstawy_programowania_2/Lab_4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/User/Desktop/podstawy_programowania_2/Lab_4/out/build/x64-Debug/src/CMakeFiles/template.dir
-C:/Users/User/Desktop/podstawy_programowania_2/Lab_4/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
-C:/Users/User/Desktop/podstawy_programowania_2/Lab_4/out/build/x64-Debug/src/CMakeFiles/run_template.dir
-C:/Users/User/Desktop/podstawy_programowania_2/Lab_4/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
