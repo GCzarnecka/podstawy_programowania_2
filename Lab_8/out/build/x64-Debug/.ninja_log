@@ -1,0 +1,15 @@
+# ninja log v5
+0	492	6421245885171017	src/CMakeFiles/template.dir/main.cpp.obj	557de93a8fe9265
+494	1277	6421245891907579	src/template.exe	fa264506cb5f0c0e
+1	610	6421246161730777	src/CMakeFiles/template.dir/main.cpp.obj	557de93a8fe9265
+611	937	6421246163855106	src/template.exe	fa264506cb5f0c0e
+1	708	6421247333421687	src/CMakeFiles/template.dir/main.cpp.obj	557de93a8fe9265
+709	894	6421247335027419	src/template.exe	fa264506cb5f0c0e
+0	410	6421252581057056	src/CMakeFiles/template.dir/main.cpp.obj	557de93a8fe9265
+410	547	6421252582180356	src/template.exe	fa264506cb5f0c0e
+1	648	6421252846046525	src/CMakeFiles/template.dir/main.cpp.obj	557de93a8fe9265
+649	826	6421252847512621	src/template.exe	fa264506cb5f0c0e
+0	654	6421258344301415	src/CMakeFiles/template.dir/main.cpp.obj	557de93a8fe9265
+655	829	6421258345752646	src/template.exe	fa264506cb5f0c0e
+1	665	6421258664883595	src/CMakeFiles/template.dir/main.cpp.obj	557de93a8fe9265
+666	823	6421258666200082	src/template.exe	fa264506cb5f0c0e
