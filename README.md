@@ -1,1 +1,1 @@
-# podstawy_programowania_2
+# Podstawy Programowania 2
